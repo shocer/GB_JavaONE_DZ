@@ -10,7 +10,7 @@ public class HomeWorkApp {
 
         printColor(101);
 
-        compareNumbers(15,15);
+        compareNumbers(10,15);
 
     }
 
